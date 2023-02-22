@@ -24,6 +24,7 @@ namespace LabT10
         public double GetSalary()
         {
             //Delegation
+            return 2;
             
         }
 
@@ -34,6 +35,7 @@ namespace LabT10
         public double GetAllowance()
         {
             //Delegation
+            return 1;
             
         }
     }

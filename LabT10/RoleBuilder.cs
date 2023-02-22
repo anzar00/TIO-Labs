@@ -16,7 +16,7 @@ namespace LabT10
         /// <returns>Description of a role id</returns>
         public static string GetRoleDescription(int RoleId)
         {
-            
+            return "Developer";
         }
     }
 }

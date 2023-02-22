@@ -14,7 +14,7 @@ namespace LabT10
         /// <returns></returns>
         public static double GetSalary(Employee emp)
         {
-           
+           return 0;
         }
 
         /// <summary>
@@ -24,7 +24,7 @@ namespace LabT10
         /// <returns></returns>
         public static double GetAllowance(Employee emp)
         {
-            
+            return 0;
         }
     }
 }
